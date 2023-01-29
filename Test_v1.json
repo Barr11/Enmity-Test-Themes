@@ -35,17 +35,17 @@
     },
     "colours": {
         "PRIMARY_DARK": "#072F38",
-        "PRIMARY_DARK_100": "#C2C2C2",
-        "PRIMARY_DARK_300": "#c2c2c2",
+        "PRIMARY_DARK_100": "#d0d1d4",
+        "PRIMARY_DARK_300": "#d0d1d4",
         "PRIMARY_DARK_360": "#d0d1d4",
-        "PRIMARY_DARK_400": "#282C37",
+        "PRIMARY_DARK_400": "#d0d1d4",
         "PRIMARY_DARK_500": "#072F38",
         "PRIMARY_DARK_600": "#072F38",
         "PRIMARY_DARK_630": "#072F38",
         "PRIMARY_DARK_700": "#072F38",
         "PRIMARY_DARK_800": "#072F38",
         "BRAND_NEW": "#7288DA",
-        "WHITE": "#FFFFFF"
+        "WHITE": "#d0d1d4"
     },
     "unsafe_colors": {
         "CHAT_GREY": "#072F38"
