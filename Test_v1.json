@@ -1,9 +1,9 @@
 {
-    "name": "Test_v1",
+    "name": "Test v1",
     "author": "Nexx#9084",
     "version": "69",
     "color": "#072F38",
-    "description": "A Theme for Enmity I Guess.",
+    "description": "A Lavender Theme for Enmity.",
     "authors": [ 
         {
             "name": "Nexx",
@@ -23,21 +23,21 @@
         "BACKGROUND_MODIFIER_ACTIVE": ["#072F38", "#072F38"],
         "BACKGROUND_MODIFIER_SELECTED": ["#072F38", "#072F38"],
         "BACKGROUND_NESTED_FLOATING": ["#072F38", "#072F38"],
-        "CHANNELS_DEFAULT": ["#23272a", "#23272a"],
-        "HEADER_PRIMARY": ["#FFFFFF", "#FFFFFF"],
-        "HEADER_SECONDARY": ["#23272a", "#23272a"],
-        "INTERACTIVE_ACTIVE": ["#FFFFFF", "#FFFFFF"],
+        "CHANNELS_DEFAULT": ["#d0d1d4", "#d0d1d4"],
+        "HEADER_PRIMARY": ["#d0d1d4", "#d0d1d4"],
+        "HEADER_SECONDARY": ["#d0d1d4", "#d0d1d4"],
+        "INTERACTIVE_ACTIVE": ["#d0d1d4", "#d0d1d4"],
         "INTERACTIVE_NORMAL": ["#d0d1d4", "#d0d1d4"],
-        "TEXT_DANGER": ["#FFFFFF", "#FFFFFF"],
-        "TEXT_LINK": ["#FFFFFF", "#FFFFFF"],
-        "TEXT_MUTED": ["#FFFFFF", "#FFFFFF"],
-        "TEXT_NORMAL": ["#FFFFFF", "#FFFFFF"]
+        "TEXT_DANGER": ["#d0d1d4", "#d0d1d4"],
+        "TEXT_LINK": ["#d0d1d4", "#d0d1d4"],
+        "TEXT_MUTED": ["#d0d1d4", "#d0d1d4"],
+        "TEXT_NORMAL": ["#d0d1d4", "#d0d1d4"]
     },
     "colours": {
         "PRIMARY_DARK": "#072F38",
         "PRIMARY_DARK_100": "#C2C2C2",
         "PRIMARY_DARK_300": "#c2c2c2",
-        "PRIMARY_DARK_360": "#FFFFFF",
+        "PRIMARY_DARK_360": "#d0d1d4",
         "PRIMARY_DARK_400": "#282C37",
         "PRIMARY_DARK_500": "#072F38",
         "PRIMARY_DARK_600": "#072F38",
