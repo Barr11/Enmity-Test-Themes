@@ -1,0 +1,53 @@
+{
+    "name": "Test v1",
+    "author": "Nexx#9084",
+    "version": "69",
+    "color": "#072F38",
+    "description": "A Lavender Theme for Enmity.",
+    "authors": [ 
+        {
+            "name": "Nexx",
+            "id": "958002283235385365"
+        }
+    ],
+    "theme_color_map": {
+        "KEYBOARD": ["#072F38", "#072F38"],
+        "BACKGROUND_PRIMARY": ["#072F38", "#072F38"],
+        "BACKGROUND_SECONDARY": ["#072F38", "#072F38"],
+        "BACKGROUND_SECONDARY_ALT": ["#072F38", "#072F38"],
+        "BACKGROUND_TERTIARY": ["#072F38", "#072F38"],
+        "BACKGROUND_ACCENT": ["#072F38", "#072F38"],
+        "BACKGROUND_FLOATING": ["#072F38", "#072F38"],
+        "BACKGROUND_MOBILE_PRIMARY": ["#072F38", "#072F38"],
+        "BACKGROUND_MOBILE_SECONDARY": ["#072F38", "#072F38"],
+        "BACKGROUND_MODIFIER_ACTIVE": ["#072F38", "#072F38"],
+        "BACKGROUND_MODIFIER_SELECTED": ["#072F38", "#072F38"],
+        "BACKGROUND_NESTED_FLOATING": ["#072F38", "#072F38"],
+        "CHANNELS_DEFAULT": ["#23272a", "#23272a"],
+        "HEADER_PRIMARY": ["#ffffff", "#FFFFFF"],
+        "HEADER_SECONDARY": ["#23272a", "#23272a"],
+        "INTERACTIVE_ACTIVE": ["#ffffff", "#FFFFFF"],
+        "INTERACTIVE_NORMAL": ["#d0d1d4", "#d0d1d4"],
+        "TEXT_DANGER": ["#FFFFFF", "#FFFFFF"],
+        "TEXT_LINK": ["#FFFFFF", "#FFFFFF"],
+        "TEXT_MUTED": ["#FFFFFF", "#FFFFFF"],
+        "TEXT_NORMAL": ["#FFFFFF", "#FFFFFF"]
+    },
+    "colours": {
+        "PRIMARY_DARK": "#072F38",
+        "PRIMARY_DARK_100": "#C2C2C2",
+        "PRIMARY_DARK_300": "#c2c2c2",
+        "PRIMARY_DARK_360": "#FFFFFF",
+        "PRIMARY_DARK_400": "#282C37",
+        "PRIMARY_DARK_500": "#072F38",
+        "PRIMARY_DARK_600": "#072F38",
+        "PRIMARY_DARK_630": "#072F38",
+        "PRIMARY_DARK_700": "#072F38",
+        "PRIMARY_DARK_800": "#072F38",
+        "BRAND_NEW": "#7288DA",
+        "WHITE": "#FFFFFF"
+    },
+    "unsafe_colors": {
+        "CHAT_GREY": "#072F38"
+    }
+}
