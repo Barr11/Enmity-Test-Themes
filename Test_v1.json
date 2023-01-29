@@ -29,7 +29,7 @@
         "INTERACTIVE_ACTIVE": ["#d0d1d4", "#d0d1d4"],
         "INTERACTIVE_NORMAL": ["#d0d1d4", "#d0d1d4"],
         "TEXT_DANGER": ["#d0d1d4", "#d0d1d4"],
-        "TEXT_LINK": ["#d0d1d4", "#d0d1d4"],
+        "TEXT_LINK": ["#7288DA", "#7288DA"],
         "TEXT_MUTED": ["#d0d1d4", "#d0d1d4"],
         "TEXT_NORMAL": ["#d0d1d4", "#d0d1d4"]
     },
